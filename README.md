@@ -1,4 +1,4 @@
-# hello World!
+# Hello World!
 Hi, My name is Zee.
 > Learn Git Here!
 ```
